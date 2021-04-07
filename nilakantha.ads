@@ -8,4 +8,4 @@ private
         S : Integer := 1;
         Pi : Long_Float := 3.0;
     end record;
-end Nilakantha
+end Nilakantha;
